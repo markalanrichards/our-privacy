@@ -22,7 +22,8 @@ You can choose to only have the cookies which are essential for the site to run,
 
 You can use this tool to change your cookie settings. Choose ‘show details’ to see the cookies we use and why.
 
-| Use necessary cookies | I'm ok with cookies | 
+
+| Use necessary cookies | I'm ok with cookies |
 |-----------------------|---------------------|
 
 # Hidden Details
