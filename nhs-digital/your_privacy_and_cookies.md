@@ -50,7 +50,7 @@ These cookies enable basic functions like page navigation and access to secure a
 | Name          | Provider            | Purpose                                                       | Expiry  | Type |
 |---------------|---------------------|---------------------------------------------------------------|---------|------|
 | CookieConsent | digital.nhs.uk      | Stores the user's cookie consent state for the current domain | 1 year  | HTTP |
-| LPSessionID | | lo.v.liveperson.net | Preserves the visitor's session state across page requests.   | Session | HTTP |
+| LPSessionID   | lo.v.liveperson.net | Preserves the visitor's session state across page requests.   | Session | HTTP |
 
 ##### Preferences
 These cookies remember information that changes the way our website behaves or looks, like your preferred language or the region that you are in.
