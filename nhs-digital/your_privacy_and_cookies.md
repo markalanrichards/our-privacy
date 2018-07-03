@@ -12,6 +12,9 @@ It overly simplifies privacy in its short context and if you want to understand 
  - User Id and Unique Id/Identifier 
  - Cookie types of pixel and HTML: they're just making these up
 
+## The cookie banner
+
+![NHS Cookie Banner](your_privacy_and_cookies_userid.png)
 
 ## The exact text
 
