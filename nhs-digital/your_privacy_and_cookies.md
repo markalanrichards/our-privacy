@@ -1,4 +1,4 @@
-# NHS Digital Privacy Lies - 2nd July 2018
+# NHS Digital cookies banner misleads users - 2nd July 2018
 [NHS Digital](https://digital.nhs.uk/) - Open in a private browser in case you've already accepted this
 
 ## Summary
