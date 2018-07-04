@@ -32,7 +32,8 @@ They may not always set cookies on the first request, you'll note in the video (
 | adnxs.com       | AppNexus - Internet Advertising company being bought by AT&T |
 | adbrn.com       | Google Search suggests this is Ad Brain customer journey targetting adbrain.com |
 
- # Video - How you gave consent
+ ## Video - How you gave consent
+ 
  NHS believes this is okay because they've advised you of this.
  Open up a private browser and visit nhs.uk and you'll see something like the following.
  
