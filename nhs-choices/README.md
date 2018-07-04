@@ -25,7 +25,7 @@ They may not always set cookies on the first request, you'll note in the video (
 |site             |Rough idea of what it is                                                                                                                                                          |                  
 |-----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | doubleclick.net | Advertising (Google) |
-| mookie1.com     | Apparently this is Media Innovation Group, a US based digital marketing business <a rel=noreferer href="https://cookiepedia.co.uk/host/mookie1.com">Cookiepedia</a> |
+| mookie1.com     | Apparently this is Media Innovation Group, a US based digital marketing business <a rel="noreferer" href="https://cookiepedia.co.uk/host/mookie1.com">Cookiepedia</a> |
 | quantserve.com  | Directs to quantcast.com: Quantcast: AI-driven Audience Insights, Targeting &amp; Measurement |
 | adsrv.org       | adsrv.org doesn't say much, but with https it appears to be a Russian ad company, as their server certificate is for the Russian domains: ads.altapress.ru, media.aso.altapress.ru, srv.aso.altapress.ru, track.aso.altapress.ru |
 | imiclk.com      | From NHS's policy "MediaMath uses this information to target ads and measure the effectiveness of ads on behalf of MediaMath’s advertisers." |
