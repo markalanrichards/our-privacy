@@ -3,7 +3,7 @@
 ## Read it here
 This is long, please skim it at the very least.
 
-<a rel=noreferer href="https://www.nhs.uk/aboutNHSChoices/aboutnhschoices/termsandconditions/Pages/cookies-policy.aspx">
+<a rel="noreferer" href="https://www.nhs.uk/aboutNHSChoices/aboutnhschoices/termsandconditions/Pages/cookies-policy.aspx">
 NHS Cookies Policy</a> open details by clicking: _show +_.
 
 [PDF printed version, already expanded](nhschoicesuk20180704.pdf)
