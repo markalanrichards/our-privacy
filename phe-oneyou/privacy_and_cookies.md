@@ -16,7 +16,8 @@ Maybe not great, but, what about other third parties? The advertising companies,
 
 ## But this isn't true
 
-On their site is still evidence of it loading Facebook, it loads third parties cookie before consent is even granted and the consent it demands does not match the statement they've made.
+* On their site is still evidence of it loading Facebook, it loads third parties cookie before consent is even granted and the consent it demands does not match the statement they've made.
+* Data protection law now requires users to opt-in and PHE isn't just demanding users opt-out, but that they change how their browser works, to protect themselves when using the site.
 
 ## Video of what their site does
 <video width="1280" height="1024" controls>
@@ -24,11 +25,21 @@ On their site is still evidence of it loading Facebook, it loads third parties c
  Your browser does not support the video tag.
 </video> 
 
+# Privacy Policy
+## https://www.nhs.uk/oneyou/privacy-policy/
+
+[PDF](phe_one_you_privacy.pdf)
+
+* Have a glance through and read about third parties, targeting and advertising.
+* Very notably, read the details about Mobile Apps and what they state about third parties on those. This complaint so far has only focused on websites. Does anybody know someone who could look into the apps? - please get in touch
 
 # Cookie Banner
 Their Cookie Banner [image](pheoneyou.pdf)/[text](cookie_banner.md) misleads users and then their cookie policy demands users consent to a whole range of third parties and mentions tracking ids in various places.
 
-# Cookie Policy [PDF][pheoneyou.pdf]
+# Cookie Declaration
+## https://www.nhs.uk/oneyou/cookie-declaration
+
+### [PDF](pheoneyou.pdf)
 
 ## Website usage (12)
 
