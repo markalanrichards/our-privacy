@@ -1,4 +1,4 @@
-# One You - Public Health England
+# One You - Public Health England (20/07/2018)
 
 The NHS website includes content from Public Health England.
 
@@ -8,18 +8,25 @@ Because they share a domain with the NHS, they may both leak cookies to each oth
 
 Maybe not great, but, what about other third parties? The advertising companies, social media and analytics...
 
-Public Health England appear to have removed some of their third parties, since I started my complaint.
-
-Their most recent email stated:
+## Their most recent email to me stated:
 
 > We would like to reiterate that the data our website operator obtains does not track users in a manner that identifies them personally. PHE complies with the laws governing the use of cookies, as set out by the Data Protection Act and the General Data Protection Regulation (GDPR). As stated in our previous correspondence; if users wish to restrict or block tracking information on our website, this option is available through the individual’s browser settings.
 
 > Should you remain dissatisfied with our data use policy, we would suggest you to pursue any outstanding issues through the regulatory body for information rights, The Information Commissioner's Office (ICO).
 
+## But this isn't true
 
-This doesn't match up with what their website states or does.
+On their site is still evidence of it loading Facebook, it loads third parties cookie before consent is even granted and the consent it demnads does not match the statement they've made.
 
+## Video of what their site does
+<video width="1280" height="1024" controls>
+ <source src="oneyoustillloadsfacebook.ogv" type="video/ogg">
+ Your browser does not support the video tag.
+</video> 
 
+Their Cookie Banner [image](pheoneyou.pdf)/[text](cookie_banner.md) misleads users and then their cookie policy demands users consent to a whole range of third parties and mentions tracking ids in various places.
+
+# Cookie Policy [PDF][pheoneyou.pdf]
 
 ## Website usage (12)
 
