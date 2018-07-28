@@ -40,4 +40,4 @@ Open up a private browser and visit nhs.uk and you'll see something like the fol
 <video width="1280" height="1024" controls>
  <source src="nhsukcookies20180704.ogv" type="video/ogg">
  Your browser does not support the video tag.
-/video> 
+</video> 
