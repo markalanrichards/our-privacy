@@ -16,7 +16,7 @@ Maybe not great, but, what about other third parties? The advertising companies,
 
 ## But this isn't true
 
-On their site is still evidence of it loading Facebook, it loads third parties cookie before consent is even granted and the consent it demnads does not match the statement they've made.
+On their site is still evidence of it loading Facebook, it loads third parties cookie before consent is even granted and the consent it demands does not match the statement they've made.
 
 ## Video of what their site does
 <video width="1280" height="1024" controls>
@@ -24,6 +24,8 @@ On their site is still evidence of it loading Facebook, it loads third parties c
  Your browser does not support the video tag.
 </video> 
 
+
+# Cookie Banner
 Their Cookie Banner [image](pheoneyou.pdf)/[text](cookie_banner.md) misleads users and then their cookie policy demands users consent to a whole range of third parties and mentions tracking ids in various places.
 
 # Cookie Policy [PDF][pheoneyou.pdf]
