@@ -72,7 +72,7 @@ IPRO Cookies
 * Purpose: Used to analyse and segment data for marketing purposes <br><br> IPRO-NHSBT-Homepage <br> IPRO - NHSBT - BAME - Register Confirmed <br> IPRO - NHSBT - BAME - About You <br> IPRO - NHSBT - BAME - Contact Details <br> IPRO - NHSBT - BAME - Register <br> IPRO - NHSBT - BAME - Request Submitted <br> IPRO - NHSBT - BAME - Sign Up <br> IPRO - NHSBT - Blood Donation Homepage <br> IPRO - NHSBT - Blood Registration Confirmation <br> IPRO - NHSBT - Bradford Blood Session Finder <br> IPRO - NHSBT - Bradford Blood About You <br> IPRO - NHSBT - Bradford Blood Back to Sessions <br> IPRO - NHSBT - Bradford Blood Contact Details <br> IPRO - NHSBT - Bradford Blood Donation Confirmation Page <br> IPRO - NHSBT - Bradford Blood Donation Landing Page <br> IPRO - NHSBT - Bradford Blood Request Confirmed <br> IPRO - NHSBT - Bradford Blood Review <br> IPRO - NHSBT - Bradford Request Blood Submitted <br> IPRO - NHSBT - non-BAME - Locations
 
 
-### There are more Cookies thant hey admit. Including advertising trackers
+### There are more Cookies than they admit. Including advertising trackers
  
 <video width="1280" height="1024" controls>
  <source src="blood-cookies.ogv" type="video/ogg">
