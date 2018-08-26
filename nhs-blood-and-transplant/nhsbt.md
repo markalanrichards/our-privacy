@@ -1,6 +1,19 @@
-# NHS BT Choices Policy - Advertisers and analytics
+# NHS BT (blood.co.uk) - Advertisers and analytics
 
-## Read it here
+
+## Context
+
+NHS Blood and Transplant operates websites in the NHS portfolio.
+If you want an idea of how bad some of the rest of tne NHS has been, have a look now (26/08/2018) as it still includes a lot of tracking and advertisers. NHS England and NHS Digital have removed some of the similar tracking.
+
+The privacy policy and cookie policy do not explain the extent to which you are tracked and instead go as far as to lie and suggest you are not tracked.
+
+NHS BT has user accounts, and therefore collects user data.
+When they collect the data they don't protect access control from third party advertisers loading JavaScript.
+For example, Facebook can not only track that you've signed up to blood.co.uk from cookies, they have access to read your email, date of birth, ethnicity, email, name and maybe more (I haven't explored all features).
+
+
+## Read policies 
 
 <a rel="noreferer" href="https://www.nhsbt.nhs.uk/cookie-information/">
 NHS BT Cookie Information</a> open details against each cookie by clicking down
@@ -12,13 +25,6 @@ NHS BT Privacy Policy</a> open details against each cookie by clicking down
 
 [PDF printed version](nhsbt_privacy_policy.pdf)
 
-
-## Context
-
-NHS Blood and Transplant operates websites in the NHS portfolio.
-If you want an idea of how bad some of the rest of tne NHS has been, have a look now (26/08/2018) as it still includes a lot of tracking and advertisers.
-
-The privacy policy and cookie policy do not explain the extent to which you are tracked and instead go as far as to lie and suggest you are not tracked.
 
 
 ## What does it mean?
@@ -50,4 +56,17 @@ Cookie details copied from the expanded parts:
 | _vwo_uuid_v2 | Visual Website Optimizer | 100 days | VWO is a website testing platform. It uses cookies to run tests and to track user information in relation to the tests. The cookies track the test variation a user has viewed and helps to serve the same variation to the user consistently, track goals completed by a user and determine whether a user is a part of the test. This cookie generates a unique ID for every visitor and is used for the report segmentation feature in VWO. | 
 | IPRO Cookies | Doubleclick | | Used to analyse and segment data for marketing purposes <br><br> IPRO-NHSBT-Homepage <br> IPRO - NHSBT - BAME - Register Confirmed <br> IPRO - NHSBT - BAME - About You <br> IPRO - NHSBT - BAME - Contact Details <br> IPRO - NHSBT - BAME - Register <br> IPRO - NHSBT - BAME - Request Submitted <br> IPRO - NHSBT - BAME - Sign Up <br> IPRO - NHSBT - Blood Donation Homepage <br> IPRO - NHSBT - Blood Registration Confirmation <br> IPRO - NHSBT - Bradford Blood Session Finder <br> IPRO - NHSBT - Bradford Blood About You <br> IPRO - NHSBT - Bradford Blood Back to Sessions <br> IPRO - NHSBT - Bradford Blood Contact Details <br> IPRO - NHSBT - Bradford Blood Donation Confirmation Page <br> IPRO - NHSBT - Bradford Blood Donation Landing Page <br> IPRO - NHSBT - Bradford Blood Request Confirmed <br> IPRO - NHSBT - Bradford Blood Review <br> IPRO - NHSBT - Bradford Request Blood Submitted <br> IPRO - NHSBT - non-BAME - Locations| 
 
-    
+
+### There are more Cookies thant hey admit. Including advertising trackers
+ 
+<video width="1280" height="1024" controls>
+ <source src="blood-cookies.ogv" type="video/ogg">
+ Your browser does not support the video tag.
+</video> 
+
+## Facebook has access to user account data including Passwords
+
+<video width="1280" height="1024" controls>
+ <source src="blood_facebok_access.webm" type="video/webm">
+ Your browser does not support the video tag.
+</video>
