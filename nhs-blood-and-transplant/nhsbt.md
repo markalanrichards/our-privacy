@@ -66,6 +66,11 @@ Cookie details copied from the expanded parts:
 
 ## Facebook has access to user account data including Passwords
 
+By replacing the Facebook JavaScript with a malicious script, I can extract form data.
+You can see ethnicity data, date of birth, email address, password, name and blood donation id number are all made available to Facebook.
+
+Why does Facebook have this access?
+
 <video width="1280" height="1024" controls>
  <source src="blood_facebook_access.webm" type="video/webm">
  Your browser does not support the video tag.
