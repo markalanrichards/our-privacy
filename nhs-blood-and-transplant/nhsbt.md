@@ -49,7 +49,7 @@ Cookie details copied from the expanded parts:
 
 ### Third Party Cookies
 id, LO, UA, ID, Id, OAX, Mdata, RMF\*, NSC\*, ANON\_ID
-* Domains: \*.doubleclick.net, amgdgt.com, mookie1.com, tribalfusion.com | Up to 2 years
+* Domains: \*.doubleclick.net, amgdgt.com, mookie1.com, tribalfusion.com
 * Lifespan: Up to 2 years 
 * Purpose: adserver tags from DoubleClick are used to understand how people engage with government digital media campaigns. This functionality allows NHSBT to track clicks on adverts, such as the "sponsored links" found when you search for a subject on Google. The others are used by analytics to record information about which pages you have landed on and how you have navigated through the site. The privacy statements for each of these suppliers is available below:
 
