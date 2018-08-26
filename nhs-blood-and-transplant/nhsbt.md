@@ -67,6 +67,6 @@ Cookie details copied from the expanded parts:
 ## Facebook has access to user account data including Passwords
 
 <video width="1280" height="1024" controls>
- <source src="blood_facebok_access.webm" type="video/webm">
+ <source src="blood_facebook_access.webm" type="video/webm">
  Your browser does not support the video tag.
 </video>
